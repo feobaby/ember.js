@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/ember-source"><img src="https://img.shields.io/npm/v/ember-source.svg?style=flat" alt="npm version"></a>
   <a href="https://github.com/emberjs/ember.js/actions?query=workflow%3ACI"><img src="https://github.com/emberjs/ember.js/workflows/CI/badge.svg" alt="CI Status"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffeobaby%2Fember.js?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffeobaby%2Fember.js.svg?type=shield"/></a>
   <a href="https://codeclimate.com/github/emberjs/ember.js"><img src="https://codeclimate.com/github/emberjs/ember.js.svg" alt="Code Climate"></a>
   <a href="https://discord.gg/zT3asNS"><img src="https://img.shields.io/discord/480462759797063690.svg?logo=discord" alt="Discord Community Server"></a>
   <a href="https://help-wanted.emberjs.com/"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
@@ -39,6 +40,9 @@ Find out more:
 - [Community](https://emberjs.com/community)
 - [Blog](https://emberjs.com/blog)
 - [Builds](https://emberjs.com/builds)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffeobaby%2Fember.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffeobaby%2Fember.js?ref=badge_large)
 
 ## Contributions
 
